@@ -33,21 +33,21 @@
    - [Filter Dates And Numbers SQL Query practice]()
    - [Filter AND,OR and NOT SQL Query Practice]()
    - [Apply Filter To SQL Query Practice]()
-   - [Complete Join Practice](https://github.com/mrjones2920/Complete-A-Join)
+   - [Complete Join Practice]()
   
  - <b>Assets, Threats, and Vulnerabilities
  Practice</b>
-   - [Classify Assets Practice](https://github.com/mrjones2920/Classify-the-Assets)
-   - [Data Assets Leak Assessment Practice](https://github.com/mrjones2920/Data-Risk)
-   - [Create Hash Values Practice](https://github.com/mrjones2920/Hash-values)
-   - [AAA Framework practice](https://github.com/mrjones2920/AAA-Framework)
-   - [Vulnerability Assessment Report Practice](https://github.com/mrjones2920/vulnerable-system)
-   - [Identifiy Attack Vectors Threat Practice](https://github.com/mrjones2920/Attack-vectors)
-   - [Filter Malicious Emails Threat Practice](https://github.com/mrjones2920/Malicious-emails)
-   - [ PASTA Threat Model Framework Practice](https://github.com/mrjones2920/PASTA)
+   - [Classify Assets Practice]()
+   - [Data Assets Leak Assessment Practice]()
+   - [Create Hash Values Practice]()
+   - [AAA Framework practice]()
+   - [Vulnerability Assessment Report Practice]()
+   - [Identifiy Attack Vectors Threat Practice]()
+   - [Filter Malicious Emails Threat Practice]()
+   - [ PASTA Threat Model Framework Practice]()
 
  - <b>Detection And Response Practice</b>
-     - [Incident Journal](https://github.com/mrjones2920/incident-handler-journal)
+     - [Incident Journal]()
  
 
 <h2>Education</h2>
@@ -60,11 +60,11 @@
 
 <h2>📄Certifications</h2>
 
-- [Foundations Of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/6MDLRH4HYTF7)
-- [Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/TD6UB39JWULX)
-- [Connect and Protect:Networks and Network Security](https://www.coursera.org/account/accomplishments/verify/UTAV8MHSBDA1)
-- [Tools Of The Trade: Linux and SQL](https://www.coursera.org/account/accomplishments/verify/PS02NGBMLUUP)
-- [Assets,Threats,And Vulnerabilities](https://www.coursera.org/account/accomplishments/certificate/3I4BLVVHYEAL)
+- [Foundations Of Cybersecurity](https://coursera.org/share/c8cd0a1a35480bd10ee5b33219fc7157)
+- [Play It Safe: Manage Security Risks](https://coursera.org/share/d59e749d9276dd890b07aad0b698314c)
+- [Connect and Protect:Networks and Network Security](https://coursera.org/share/da103a0c083b92a62ef7f2caface9073)
+- [Tools Of The Trade: Linux and SQL]()
+- [Assets,Threats,And Vulnerabilities]()
 
 <h2>Skills</h2>
 
