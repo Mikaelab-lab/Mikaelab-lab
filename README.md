@@ -22,7 +22,7 @@
   - [Filter with Grep practice](https://github.com/Mikaelab-lab/Filter-with-grep)
   - [Manage files practice](https://github.com/Mikaelab-lab/Manage-files-with-linux-commands)
   - [Manage Authorization Practice](https://github.com/Mikaelab-lab/Manage-Authorization)
-  - [File Permissions practice]()
+  - [File Permissions practice](https://github.com/Mikaelab-lab/File-Permissions)
   - [Add and Manage user practice]()
   - [Help In The Command Line Practice]()
   - [Decrypting An Encrypted]()
